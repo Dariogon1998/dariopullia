@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: "Roboto", sans-serif;
 
 }
 
@@ -10,6 +10,13 @@ a:visited {
     color: black; 
    }
    
+.paragraph{
+    padding: 40px;
+    font-size: larger;
+    
+}   
+
+
 .low_banner{
     height: 100px;
     width: 100%;
@@ -23,6 +30,8 @@ a:visited {
     background-color:rgb(182, 182, 182);
 
 }
+
+
 .link_button{
     height: fit-content;
     width: fit-content;
