@@ -100,8 +100,24 @@ a:visited {
     
 }
 
-.content h1{
-    font-size: 100px;
+.aboutme{
+    width: 80%;
+    top: 20%;
+    text-align: center;
+    color: black;
+    margin: auto;
+    line-height:1.5em;
 
 }
 
+.aboutme h1{
+    font-size: 100px;
+    line-height:1.5em;
+
+}
+
+#wownote {
+    margin-top: 10%;
+    border-color: rgb(221, 33, 33);
+    border-style: dashed;
+}
